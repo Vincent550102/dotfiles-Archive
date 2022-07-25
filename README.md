@@ -1,4 +1,4 @@
-#dotfiles
+# dotfiles
 ## usage
 ```
 ./setup.sh
